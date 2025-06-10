@@ -1,0 +1,10 @@
+{
+    "files": {
+        "README.md": "c99d021f99034259f631e651adba19f4d33bc91edcd1b0ddfd9c675d8425890b",
+        "index.js": "f5753f87e336839e263455053726a0ec2539387c7887f9796a696bb356cf80be",
+        "module.json": "7ba3337af4c3df29cb48fde1141a381cbc61022194a558c11bfeddd95d0f166c"
+    },
+    "defs": {
+        "C_CHAT": 1
+    }
+}
