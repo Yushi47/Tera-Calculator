@@ -1,8 +1,8 @@
 {
     "files": {
         "README.md": "c99d021f99034259f631e651adba19f4d33bc91edcd1b0ddfd9c675d8425890b",
-        "index.js": "f5753f87e336839e263455053726a0ec2539387c7887f9796a696bb356cf80be",
-        "module.json": "7ba3337af4c3df29cb48fde1141a381cbc61022194a558c11bfeddd95d0f166c"
+        "index.js": "7c9e178c7be4c679ef76a7e0cc70aafd6f04e61af8964872709328f0465a1231",
+        "module.json": "cce3d3a7046de465098369770e25967759252ea118f2080ef0413f6319e86839"
     },
     "defs": {
         "C_CHAT": 1

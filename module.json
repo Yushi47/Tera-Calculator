@@ -2,7 +2,7 @@
     "disableAutoUpdate": false,
     "name": "tera-calculator",
     "author": "Yushi",
-    "version": "1.0",
+    "version": "1.1",
     "description": "TERA In-Game Calculator",
     "servers": ["https://raw.githubusercontent.com/Yushi47/Tera-Calculator/master/"],
     "supportUrl": "https://github.com/Yushi47/Tera-Calculator/issues",
